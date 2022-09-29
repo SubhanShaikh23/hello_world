@@ -1,2 +1,2 @@
 print("hello world")
-This is ("batch 1 of fycs for foss practial").
+print ("This is batch 1 of fycs for foss practial").
